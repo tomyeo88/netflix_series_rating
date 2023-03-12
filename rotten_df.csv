@@ -1,0 +1,257 @@
+title,start_date,aud_sentiment,aud_score,crit_sentiment,crit_score
+The Woman King,"Streaming Dec 13, 2022",positive,99,positive,94
+Emily the Criminal,"Streaming Oct 28, 2022",positive,79,positive,94
+Leave No Trace,"Streaming Sep 25, 2018",positive,80,positive,100
+The Stranger,"Streaming Oct 19, 2022",positive,67,positive,91
+Glass Onion: A Knives Out Mystery,"Streaming Dec 23, 2022",positive,92,positive,92
+Rocky,"Streaming Oct 31, 2015",positive,69,positive,92
+The Gentlemen,"Streaming Mar 24, 2020",positive,84,positive,75
+The Hunger Games,"Streaming Sep 9, 2016",positive,81,positive,84
+His House,"Streaming Oct 30, 2020",positive,74,positive,100
+Prisoners,"Streaming May 10, 2015",positive,87,positive,81
+The Wonder,"Streaming Nov 16, 2022",positive,72,positive,86
+The Hunger Games: Catching Fire,"Streaming Aug 26, 2016",positive,89,positive,90
+The Dark Knight,"Streaming Jun 14, 2010",positive,94,positive,94
+The Power of the Dog,"Streaming Dec 1, 2021",positive,76,positive,94
+Hustle,"Streaming Jun 8, 2022",positive,93,positive,93
+It Follows,"Streaming Nov 30, 2016",positive,66,positive,95
+La La Land,"Streaming Apr 11, 2017",positive,81,positive,91
+The Hangover,"Streaming Jan 7, 2014",positive,84,positive,79
+The Sea Beast,"Streaming Jul 8, 2022",positive,84,positive,94
+The Harder They Fall,"Streaming Nov 3, 2021",positive,93,positive,88
+Rango,"Streaming Jun 6, 2014",positive,70,positive,88
+The Bad Guys,"Streaming Jul 1, 2022",positive,93,positive,88
+Under the Shadow,"Streaming Jan 17, 2017",positive,73,positive,99
+The Lost Daughter,"Streaming Dec 31, 2021",negative,52,positive,94
+The Good Nurse,"Streaming Oct 26, 2022",positive,76,positive,75
+Galaxy Quest,"Streaming Aug 1, 2013",positive,79,positive,90
+The Nice Guys,"Streaming Aug 9, 2016",positive,79,positive,91
+Call Me by Your Name,"Streaming Feb 23, 2018",positive,86,positive,94
+The Swimmers,"Streaming Nov 23, 2022",positive,85,positive,82
+Outside In,"Streaming Apr 3, 2018",positive,77,positive,96
+El Camino: A Breaking Bad Movie,"Streaming Oct 11, 2019",positive,81,positive,92
+Synchronic,"Streaming Nov 21, 2020",positive,76,positive,79
+Chris Rock: Tamborine,"Streaming Feb 14, 2018",negative,40,positive,100
+Easy A,"Streaming Apr 16, 2012",positive,77,positive,85
+Operation Mincemeat,"Streaming May 11, 2022",positive,66,positive,83
+The Irishman,"Streaming Nov 27, 2019",positive,86,positive,95
+Hunt for the Wilderpeople,"Streaming Sep 20, 2016",positive,91,positive,97
+The Lord of the Rings: The Fellowship of the Ring,"Streaming Jun 28, 2011",positive,95,positive,91
+Descendant,"Streaming Oct 21, 2022",positive,61,positive,100
+Worth,"Streaming Sep 3, 2021",positive,76,positive,82
+The Lord of the Rings: The Return of the King,"Streaming Apr 6, 2010",positive,86,positive,93
+Marriage Story,"Streaming Dec 6, 2019",positive,85,positive,95
+Pieces of a Woman,"Streaming Jan 7, 2021",positive,84,positive,75
+It,"Streaming Dec 19, 2017",positive,84,positive,86
+Gerald's Game,"Streaming Sep 29, 2017",positive,70,positive,91
+Lady Chatterley's Lover,"Streaming Dec 2, 2022",positive,75,positive,85
+1922,"Streaming Oct 20, 2017",negative,57,positive,92
+Minority Report,"Streaming Aug 1, 2013",positive,80,positive,90
+I Care a Lot,"Streaming Feb 19, 2021",negative,34,positive,78
+Arctic,"Streaming Apr 23, 2019",positive,78,positive,90
+Side Effects,"Streaming Dec 9, 2015",positive,70,positive,81
+The Ballad of Buster Scruggs,"Streaming Nov 16, 2018",positive,78,positive,89
+Reservoir Dogs,"Streaming Dec 19, 2015",positive,94,positive,90
+Begin Again,"Streaming Oct 17, 2014",positive,81,positive,83
+The Founder,"Streaming Apr 4, 2017",positive,82,positive,81
+Enola Holmes 2,"Streaming Nov 4, 2022",positive,78,positive,94
+I Don't Feel at Home in This World Anymore,"Streaming May 23, 2017",positive,77,positive,89
+Nocturnal Animals,"Streaming Feb 7, 2017",positive,73,positive,74
+I'm Thinking of Ending Things,"Streaming Sep 4, 2020",negative,50,positive,82
+Enola Holmes,"Streaming Sep 24, 2020",positive,71,positive,91
+The Imitation Game,"Streaming Nov 30, 2016",positive,91,positive,90
+Mudbound,"Streaming Nov 17, 2017",positive,84,positive,97
+Paddington,"Streaming Nov 30, 2016",positive,80,positive,97
+Brokeback Mountain,"Streaming Feb 11, 2015",positive,82,positive,88
+Scott Pilgrim vs. the World,"Streaming Jun 15, 2012",positive,84,positive,82
+The Rental,"Streaming Jul 24, 2020",negative,43,positive,74
+Sleepless in Seattle,"Streaming Apr 16, 2012",positive,75,positive,75
+The Aviator,"Streaming Apr 19, 2016",positive,79,positive,86
+Lion,"Streaming Apr 1, 2017",positive,91,positive,84
+Road to Perdition,"Streaming Aug 1, 2013",positive,86,positive,81
+Da 5 Bloods,"Streaming Jun 13, 2020",negative,53,positive,92
+Athena,"Streaming Sep 23, 2022",positive,70,positive,85
+Phantom Thread,"Streaming Mar 15, 2018",positive,71,positive,91
+The Lord of the Rings: The Two Towers,"Streaming Jun 28, 2011",positive,95,positive,95
+"Pamela, a Love Story","Streaming Jan 31, 2023",positive,94,positive,98
+National Lampoon's Animal House,"Streaming Jun 15, 2012",positive,89,positive,91
+Set It Up,"Streaming Jun 15, 2018",positive,67,positive,92
+The Mitchells vs. the Machines,"Streaming Apr 30, 2021",positive,88,positive,97
+Croupier,"Streaming Oct 28, 2020",positive,79,positive,95
+Hush,"Streaming May 23, 2017",positive,73,positive,93
+The Old Guard,"Streaming Jul 10, 2020",positive,70,positive,80
+Molly's Game,"Streaming Mar 27, 2018",positive,84,positive,82
+Skyfall,"Streaming Feb 4, 2017",positive,86,positive,92
+If Beale Street Could Talk,"Streaming Mar 12, 2019",positive,71,positive,95
+Do Revenge,"Streaming Sep 16, 2022",positive,76,positive,83
+Roma,"Streaming Dec 15, 2018",positive,72,positive,96
+Cam,"Streaming Nov 16, 2018",negative,53,positive,93
+"Tick, Tick... Boom!","Streaming Nov 19, 2021",positive,96,positive,88
+King Kong,"Streaming Oct 1, 2015",negative,50,positive,84
+Stowaway,"Streaming Apr 22, 2021",negative,45,positive,76
+Kung Fu Panda 3,"Streaming Jun 28, 2016",positive,78,positive,86
+Jerry Maguire,"Streaming Nov 1, 2012",positive,79,positive,84
+"Hail, Caesar!","Streaming Oct 4, 2016",negative,44,positive,86
+21 Jump Street,"Streaming Feb 4, 2014",positive,82,positive,85
+Rush,"Streaming Jan 14, 2014",positive,88,positive,88
+The Trial of the Chicago 7,"Streaming Oct 16, 2020",positive,90,positive,89
+The Forty-Year-Old Version,"Streaming Oct 9, 2020",positive,72,positive,99
+Notting Hill,"Streaming Feb 12, 2014",positive,79,positive,84
+The Sting,"Streaming May 8, 2015",positive,95,positive,92
+Christine,"Streaming Jan 10, 2017",positive,71,positive,89
+Private Life,"Streaming Oct 5, 2018",positive,78,positive,94
+Monty Python and the Holy Grail,"Streaming Mar 17, 2017",positive,95,positive,98
+Till Death,"Streaming Jul 2, 2021",negative,55,positive,90
+Dolemite Is My Name,"Streaming Oct 25, 2019",positive,91,positive,97
+Okja,"Streaming Jun 30, 2017",positive,81,positive,86
+Darkest Hour,"Streaming Feb 6, 2018",positive,82,positive,84
+To All the Boys I've Loved Before,"Streaming Aug 17, 2018",positive,85,positive,96
+Munich: The Edge of War,"Streaming Jan 21, 2022",positive,78,positive,86
+A Monster Calls,"Streaming Mar 14, 2017",positive,81,positive,86
+Official Secrets,"Streaming Aug 30, 2019",positive,89,positive,82
+The Half of It,"Streaming May 2, 2020",positive,81,positive,97
+Ouija: Origin of Evil,"Streaming Jan 11, 2017",negative,57,positive,83
+Bo Burnham: Inside,"Streaming May 30, 2021",positive,93,positive,95
+The Wretched,"Streaming Apr 29, 2020",negative,46,positive,74
+The White Tiger,"Streaming Jan 22, 2021",positive,80,positive,91
+Trolls,"Streaming Jan 24, 2017",positive,67,positive,75
+The Kindergarten Teacher,"Streaming Oct 12, 2018",positive,68,positive,90
+Colette,"Streaming Dec 4, 2018",positive,69,positive,87
+Disobedience,"Streaming Jul 10, 2018",positive,76,positive,84
+I Am Mother,"Streaming Jun 7, 2019",positive,75,positive,89
+Ma Rainey's Black Bottom,"Streaming Dec 18, 2020",positive,72,positive,97
+Tully,"Streaming Jul 17, 2018",positive,75,positive,87
+Coming Home in the Dark,"Streaming Oct 1, 2021",negative,46,positive,92
+The Perfection,"Streaming May 24, 2019",negative,56,positive,71
+Labyrinth,"Streaming Oct 9, 2011",positive,86,positive,75
+The Mask of Zorro,"Streaming Apr 16, 2012",positive,73,positive,83
+Apostle,"Streaming Oct 12, 2018",negative,54,positive,78
+Is That Black Enough for You?!?,"Streaming Nov 11, 2022",positive,66,positive,100
+Mank,"Streaming Dec 4, 2020",positive,60,positive,83
+"""Sr.""","Streaming Dec 2, 2022",positive,90,positive,97
+Philomena,"Streaming Apr 4, 2014",positive,89,positive,91
+Wendell & Wild,"Streaming Oct 28, 2022",positive,65,positive,81
+The Dig,"Streaming Jan 29, 2021",positive,78,positive,88
+Cargo,"Streaming May 18, 2018",positive,66,positive,87
+My Octopus Teacher,"Streaming Sep 7, 2020",positive,91,positive,93
+Grease,"Streaming Aug 25, 2013",positive,87,positive,77
+Parenthood,"Streaming Jun 15, 2012",positive,76,positive,92
+Fear Street Part One: 1994,"Streaming Jul 2, 2021",positive,62,positive,83
+Flushed Away,"Streaming Nov 25, 2015",positive,65,positive,73
+Frances Ha,"Streaming Oct 1, 2016",positive,77,positive,93
+Beasts of No Nation,"Streaming Feb 6, 2017",positive,92,positive,91
+Always Be My Maybe,"Streaming May 31, 2019",positive,79,positive,89
+Won't You Be My Neighbor?,"Streaming Aug 21, 2018",positive,94,positive,97
+Still Alice,"Streaming Nov 8, 2016",positive,85,positive,85
+The Beguiled,"Streaming Oct 30, 2018",negative,48,positive,78
+Passing,"Streaming Nov 10, 2021",positive,86,positive,90
+Dope,"Streaming Jan 5, 2016",positive,83,positive,88
+The Raid 2,"Streaming Sep 7, 2014",positive,87,positive,82
+The Alpinist,"Streaming Nov 2, 2021",positive,97,positive,93
+Julie & Julia,"Streaming Apr 16, 2012",positive,70,positive,78
+The Boy Who Harnessed the Wind,"Streaming Mar 1, 2019",positive,87,positive,86
+Girl,"Streaming Mar 15, 2019",positive,74,positive,84
+Uncorked,"Streaming Mar 28, 2020",positive,64,positive,92
+The Two Popes,"Streaming Dec 20, 2019",positive,88,positive,90
+The Social Dilemma,"Streaming Sep 9, 2020",positive,83,positive,85
+Mindhorn,"Streaming May 12, 2017",positive,60,positive,92
+Monster House,"Streaming Jun 5, 2012",positive,64,positive,75
+Play Misty for Me,"Streaming Sep 11, 2015",positive,72,positive,85
+The Guernsey Literary and Potato Peel Pie Society,"Streaming Aug 10, 2018",positive,80,positive,81
+My Father's Dragon,"Streaming Nov 11, 2022",positive,73,positive,87
+Dumplin',"Streaming Dec 7, 2018",positive,73,positive,87
+Someone Great,"Streaming Apr 19, 2019",positive,65,positive,83
+Bad Trip,"Streaming Mar 26, 2021",positive,69,positive,79
+Lost Girls,"Streaming Mar 13, 2020",negative,50,positive,74
+Seabiscuit,"Streaming Jan 5, 2016",positive,76,positive,78
+Hannah Gadsby: Nanette,"Streaming Jun 19, 2018",negative,26,positive,100
+Goosebumps,"Streaming Jan 10, 2017",positive,62,positive,78
+The Land of Steady Habits,"Streaming Sep 14, 2018",negative,46,positive,83
+Facing Nolan,"Streaming Jul 19, 2022",positive,100,positive,98
+Missing Link,"Streaming Jul 9, 2019",positive,67,positive,88
+Vivo,"Streaming Aug 6, 2021",positive,72,positive,86
+A Secret Love,"Streaming Apr 29, 2020",positive,90,positive,100
+Klaus,"Streaming Nov 15, 2019",positive,96,positive,95
+Our Souls at Night,"Streaming Sep 30, 2017",positive,76,positive,89
+First They Killed My Father,"Streaming Sep 15, 2017",positive,80,positive,88
+In a Valley of Violence,"Streaming Dec 27, 2016",negative,51,positive,77
+Icarus,"Streaming Aug 4, 2017",positive,93,positive,92
+Between Two Ferns: The Movie,"Streaming Sep 20, 2019",negative,43,positive,74
+The Boxtrolls,"Streaming Jan 21, 2016",positive,63,positive,78
+Fear Street Part Two: 1978,"Streaming Jul 9, 2021",positive,80,positive,87
+We the Animals,"Streaming Nov 13, 2018",positive,75,positive,92
+Coded Bias,"Streaming Apr 5, 2021",negative,58,positive,100
+Fear Street Part Three: 1666,"Streaming Jul 16, 2021",positive,76,positive,88
+Berlin Syndrome,"Streaming May 26, 2017",negative,53,positive,76
+22 July,"Streaming Oct 10, 2018",positive,69,positive,80
+The Willoughbys,"Streaming Apr 22, 2020",positive,65,positive,91
+Sand Storm,"Streaming Apr 4, 2017",positive,79,positive,93
+Other People,"Streaming Jan 20, 2017",positive,79,positive,85
+Over the Moon,"Streaming Oct 23, 2020",positive,69,positive,81
+The Sparks Brothers,"Streaming Aug 31, 2021",positive,98,positive,96
+13TH,"Streaming May 23, 2017",positive,90,positive,97
+Lagaan: Once Upon a Time in India,"Streaming Dec 9, 2017",positive,93,positive,95
+Beyond the Lights,"Streaming Feb 24, 2015",positive,75,positive,83
+American Factory,"Streaming Aug 21, 2019",positive,81,positive,95
+The Incredible Jessica James,"Streaming Jul 29, 2017",positive,64,positive,89
+Loving,"Streaming Jan 24, 2017",positive,76,positive,88
+Misha and the Wolves,"Streaming Aug 11, 2021",positive,75,positive,85
+Paddleton,"Streaming Feb 22, 2019",positive,86,positive,89
+High Flying Bird,"Streaming Feb 8, 2019",negative,50,positive,91
+Ip Man 3,"Streaming Apr 19, 2016",positive,73,positive,77
+Summerland,"Streaming Jul 31, 2020",positive,73,positive,78
+Tell Me Who I Am,"Streaming Oct 18, 2019",positive,87,positive,97
+A Shaun the Sheep Movie: Farmageddon,"Streaming Feb 14, 2020",positive,79,positive,96
+The Breaker Upperers,"Streaming Feb 15, 2019",negative,51,positive,87
+Concrete Cowboy,"Streaming Apr 2, 2021",positive,70,positive,81
+Adam Sandler: 100% Fresh,"Streaming Oct 23, 2018",positive,91,positive,90
+Win It All,"Streaming May 23, 2017",negative,55,positive,85
+The Other Side of the Wind,"Streaming Nov 3, 2018",negative,58,positive,83
+See You Yesterday,"Streaming May 17, 2019",negative,40,positive,93
+Tallulah,"Streaming May 23, 2017",positive,69,positive,85
+Barry,"Streaming May 23, 2017",negative,51,positive,80
+Get On Up,"Streaming Dec 9, 2014",positive,68,positive,80
+The Boys in the Band,"Streaming Sep 30, 2020",positive,74,positive,84
+Vampires vs. The Bronx,"Streaming Oct 2, 2020",negative,44,positive,90
+Knock Down the House,"Streaming May 1, 2019",negative,11,positive,99
+Dick Johnson Is Dead,"Streaming Oct 2, 2020",positive,78,positive,99
+Athlete A,"Streaming Jun 25, 2020",positive,92,positive,100
+Procession,"Streaming Nov 19, 2021",positive,79,positive,98
+Time,"Streaming Oct 16, 2020",negative,51,positive,98
+Omar,"Streaming Feb 8, 2017",positive,84,positive,90
+The Disciple,"Streaming Apr 30, 2021",positive,60,positive,96
+Undefeated,"Streaming Dec 5, 2016",positive,89,positive,96
+"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton","Streaming Nov 17, 2017",positive,87,positive,92
+To All the Boys: Always and Forever,"Streaming Feb 12, 2021",negative,59,positive,79
+Disclosure,"Streaming Jun 19, 2020",positive,87,positive,98
+To All the Boys: P.S. I Still Love You,"Streaming Feb 12, 2020",negative,40,positive,76
+Pray Away,"Streaming Aug 3, 2021",positive,78,positive,94
+The Great Hack,"Streaming Jul 24, 2019",positive,66,positive,85
+Sleight,"Streaming Jul 10, 2017",negative,52,positive,80
+The Reason I Jump,"Streaming May 9, 2021",positive,73,positive,97
+Shirkers,"Streaming Oct 26, 2018",positive,79,positive,99
+Güeros,"Streaming Oct 20, 2016",positive,81,positive,93
+Amanda Knox,"Streaming May 23, 2017",positive,71,positive,83
+Metallica: Some Kind of Monster,"Streaming Feb 10, 2017",positive,83,positive,88
+Into the Inferno,"Streaming Apr 9, 2017",positive,73,positive,92
+The Square,"Streaming Mar 10, 2017",positive,90,positive,100
+Circus of Books,"Streaming Apr 22, 2020",positive,80,positive,98
+Pee-wee's Big Holiday,"Streaming May 23, 2017",positive,61,positive,80
+Becoming,"Streaming May 7, 2020",negative,57,positive,93
+John Mulaney: Kid Gorgeous at Radio City,"Streaming May 1, 2018",positive,90,positive,100
+Tigertail,"Streaming Apr 11, 2020",positive,66,positive,82
+"What Happened, Miss Simone?","Streaming Dec 5, 2016",positive,85,positive,90
+Miles Davis: Birth of the Cool,"Streaming Mar 10, 2020",positive,82,positive,92
+Operation Varsity Blues: The College Admissions Scandal,"Streaming Mar 17, 2021",positive,74,positive,88
+"Bikram: Yogi, Guru, Predator","Streaming Nov 20, 2019",positive,75,positive,96
+Strong Island,"Streaming Sep 15, 2017",negative,56,positive,100
+Rita Moreno: Just a Girl Who Decided to Go For It,"Streaming Jul 16, 2021",positive,93,positive,96
+Rumble: The Indians Who Rocked the World,"Streaming Oct 25, 2017",positive,89,positive,91
+Jingle Jangle: A Christmas Journey,"Streaming Nov 13, 2020",positive,70,positive,89
+Toni Morrison: The Pieces I Am,"Streaming Aug 27, 2019",positive,96,positive,97
+White Christmas,"Streaming Dec 26, 2016",positive,88,positive,77
+Casting JonBenét,"Streaming Apr 28, 2017",negative,49,positive,82
+Comedian,"Streaming Nov 7, 2017",positive,69,positive,77
+Lingua Franca,"Streaming Aug 26, 2020",negative,48,positive,88
+Pope Francis -- A Man of His Word,"Streaming Dec 4, 2018",positive,74,positive,82
+Sir! No Sir!,"Streaming Jan 19, 2017",positive,84,positive,89
